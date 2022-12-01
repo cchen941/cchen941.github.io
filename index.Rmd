@@ -1,6 +1,4 @@
 ---
-title: "PM566 Personal Website"
-author: "Chen Chen"
 output: 
     html_document:
         toc: TRUE
@@ -8,11 +6,40 @@ output:
 ---
 
 
-My name is Chen. This is my personal website.
+> My name is Chen Chen. This is my personal website.
 
 
 Click to [View my Github Page](https://github.com/cchen941)
 
+
+Cell Phone: (323)-600-5435
+
+
+Personal Email: chc292744@gmail.com
+
+
+Official Email: cchen941@usc.edu
+
+
 <br>
 
+
+# WHO I AM?
+
+
+I am a graduate student pursing my master degree in University of California and majoring in Analytics. I am a cheerful and positive international student. Passionate about data analysis and working in healthcare systems. In daily life, my hobbies are traveling, hiking, skiing and watching movies. 
+
+![](IMG_4372.png) 
+
+
+![](IMG_0126.png) 
+
+
+# WHERE DO I COME FROM?
+
+
+# WHAT I DID?
+
+
+# WHAT I AM GOING TO DO?
 

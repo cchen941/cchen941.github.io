@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "CHEN CHEN's Personal Website"
+  title: "CHEN CHEN"
   left:
     - text: "Home"
       href: index.html
@@ -12,6 +12,6 @@ navbar:
       href: https://uscbiostats.github.io/PM566/
 output:
   html_document:
-    theme: lumen
+    theme: united
     include:
     css: styles.css
