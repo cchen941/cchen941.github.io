@@ -1,1 +1,18 @@
+---
+title: "PM566 Personal Website"
+author: "Chen Chen"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+
+My name is Chen. This is my personal website.
+
+
+Click to [View my Github Page](https://github.com/cchen941)
+
+<br>
+
 
